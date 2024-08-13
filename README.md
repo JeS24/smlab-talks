@@ -4,8 +4,9 @@ This repository stores the files of the talks & presentations by our lab members
 
 <!-- The same is hosted on [GitHub Pages](https:///weekly-talks/). FIXME: -->
 
-> [!NOTE]  
-> For people looking to edit the site, please refer to [`AstroPaper.README.md`](./AstroPaper.README.md) for the setup and configuration of this website.
+> [!NOTE]
+> 1. For people looking to edit the site, please refer to [`AstroPaper.README.md`](./AstroPaper.README.md) for the setup and configuration of this website.
+> 2. For the Google AppScript that controls the automated mails, please refer to [`auto-mails-appscript.gs`](./AppScript/auto-mails-appscript.gs).
 
 ### 📚 How to add new talks?
 
