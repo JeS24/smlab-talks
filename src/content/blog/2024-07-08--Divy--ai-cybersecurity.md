@@ -25,4 +25,4 @@ scope of our study, which can help researchers do future research in the area. O
 serve as a reference point and guidelines for cybersecurity researchers as well as industry professionals in the area, especially
 from an intelligent computing or AI-based technical point of view.
 
-<embed src="/assets/slides/2024-07-08--Divy--ai-cybersecurity.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-07-08--Divy--ai-cybersecurity.pdf" type="application/pdf" width="100%" height="600px">

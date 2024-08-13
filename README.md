@@ -2,7 +2,7 @@
 
 This repository stores the files of the talks & presentations by our lab members and interns on various Machine Learning or Computer Science topics.
 
-<!-- The same is hosted on [GitHub Pages](https:///weekly-talks/). FIXME: -->
+The same is hosted at https://smlab.niser.ac.in/labtalks/.
 
 > [!NOTE]
 > 1. For people looking to edit the site, please refer to [`AstroPaper.README.md`](./AstroPaper.README.md) for the setup and configuration of this website.

@@ -15,4 +15,4 @@ description: This presentation explores RISC-V, a revolutionary open-source inst
 
 The presentation delves into RISC-V (Reduced Instruction Set Computing V), a revolutionary open-source instruction set architecture (ISA) poised to disrupt the landscape. Exploring the core principles of RISC-V, highlighting its advantages, challenges and background. The presentation will showcase how RISC-V empowers various applications, including efficient embedded systems, the burgeoning Internet of Things (IoT), and the development of intelligent systems like self-driving cars (tailor focus based on audience).
 
-<embed src="/assets/slides/2024-06-03--Shreya--RISC-V.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-06-03--Shreya--RISC-V.pdf" type="application/pdf" width="100%" height="600px">

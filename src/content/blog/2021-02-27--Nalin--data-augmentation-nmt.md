@@ -20,4 +20,4 @@ https://arxiv.org/abs/1511.06709
 https://arxiv.org/abs/1911.01986
 https://arxiv.org/abs/2009.13818
 
-<embed src="/assets/slides/2021-02-27--Nalin--data-augmentation-nmt.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2021-02-27--Nalin--data-augmentation-nmt.pdf" type="application/pdf" width="100%" height="600px">

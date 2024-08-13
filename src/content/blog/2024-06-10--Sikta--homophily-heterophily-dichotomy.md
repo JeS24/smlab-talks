@@ -38,4 +38,4 @@ confirms that it is a useful characteristic of the graph structure.
 Additional resources:
 https://arxiv.org/abs/2209.06177
 
-<embed src="/assets/slides/2024-06-10--Sikta--homophily-heterophily-dichotomy.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-06-10--Sikta--homophily-heterophily-dichotomy.pdf" type="application/pdf" width="100%" height="600px">

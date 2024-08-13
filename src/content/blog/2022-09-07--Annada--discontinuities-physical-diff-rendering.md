@@ -17,4 +17,4 @@ Additional resources:
 https://people.csail.mit.edu/tzumao/diffrt/
 http://rgl.epfl.ch/publications/Vicini2022SDF
 
-<embed src="/assets/slides/2022-09-07--Annada--discontinuities-physical-diff-rendering.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2022-09-07--Annada--discontinuities-physical-diff-rendering.pdf" type="application/pdf" width="100%" height="600px">

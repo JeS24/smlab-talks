@@ -17,4 +17,4 @@ description: In this talk, we discuss grouping unlabeled items using k-means clu
 Additional resources:
 http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf
 
-<embed src="/assets/slides/2022-09-07--Annada--discontinuities-physical-diff-rendering.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2022-09-07--Annada--discontinuities-physical-diff-rendering.pdf" type="application/pdf" width="100%" height="600px">

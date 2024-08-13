@@ -23,4 +23,4 @@ Additional resources:
 - Paper: https://arxiv.org/abs/2306.13643
 - Code: https://github.com/cvg/LightGlue
 
-<embed src="/assets/slides/2024-06-17--Adyasha--LightGlue.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-06-17--Adyasha--LightGlue.pdf" type="application/pdf" width="100%" height="600px">

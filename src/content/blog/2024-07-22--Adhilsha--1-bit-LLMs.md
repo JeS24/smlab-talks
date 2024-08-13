@@ -20,4 +20,4 @@ Based on the paper "The Era of 1-bit LLMs: All Large Language Models are in 1.58
 Additional resources:
 https://arxiv.org/abs/2402.17764
 
-<embed src="/assets/slides/2024-07-22--Adhilsha--1-bit-LLMs.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-07-22--Adhilsha--1-bit-LLMs.pdf" type="application/pdf" width="100%" height="600px">

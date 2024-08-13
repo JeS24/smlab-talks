@@ -17,4 +17,4 @@ Deep-learning models have become pervasive tools in science and engineering. How
 Additional resources:
 https://www.nature.com/articles/s41586-021-04223-6
 
-<embed src="/assets/slides/2022-08-31--Jyotirmaya--physics-aware-training.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2022-08-31--Jyotirmaya--physics-aware-training.pdf" type="application/pdf" width="100%" height="600px">

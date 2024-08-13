@@ -21,4 +21,4 @@ One of the most interesting areas for application of object detection techniques
 Additional resources:
 https://arxiv.org/abs/1904.00781
 
-<embed src="/assets/slides/2021-01-08--Jyotirmaya--RILOD.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2021-01-08--Jyotirmaya--RILOD.pdf" type="application/pdf" width="100%" height="600px">

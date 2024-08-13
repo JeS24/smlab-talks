@@ -18,4 +18,4 @@ Quantum computing, with its quantum parallelism, excels in tasks like factorizat
 Additional resources:
 https://arxiv.org/abs/1906.10175
 
-<embed src="/assets/slides/2024-06-28--Kirtidev--quantum-machine-learning.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-06-28--Kirtidev--quantum-machine-learning.pdf" type="application/pdf" width="100%" height="600px">

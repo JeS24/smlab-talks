@@ -1,8 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "", // replace this with your deployed domain // TODO: Update this
-  author: "Sat Naing, Jyotirmaya Shivottam",
+  website: "https://smlab.niser.ac.in/labtalks/", // replace this with your deployed domain
+  base: "/labtalks", // replace this with your project root on the server
+  author: "Jyotirmaya Shivottam, Sat Naing",
   profile: "https://github.com/JeS24/",
   desc: "SMLab - Weekly talks & presentations by lab members and interns on various ML / CS topics.",
   title: "SMLab Weekly Talks",

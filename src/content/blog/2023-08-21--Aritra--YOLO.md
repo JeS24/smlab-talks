@@ -18,4 +18,4 @@ We present YOLO, a new approach to object detection. Prior work on object detect
 Additional resources:
 https://pjreddie.com/darknet/yolo/
 
-<embed src="/assets/slides/2023-08-21--Aritra--YOLO.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2023-08-21--Aritra--YOLO.pdf" type="application/pdf" width="100%" height="600px">

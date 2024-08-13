@@ -19,4 +19,4 @@ Additional resources:
 https://arxiv.org/abs/1904.08653
 https://arxiv.org/abs/1708.06131
 
-<embed src="/assets/slides/2021-01-01--Danush--adversarial-patches.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2021-01-01--Danush--adversarial-patches.pdf" type="application/pdf" width="100%" height="600px">

@@ -19,4 +19,4 @@ In multi-source sequence-to-sequence tasks, the attention mechanism can be model
 Additional resources:
 https://arxiv.org/abs/1811.04716
 
-<embed src="/assets/slides/2021-08-10--Nalin--input-combination-strategies-transformer.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2021-08-10--Nalin--input-combination-strategies-transformer.pdf" type="application/pdf" width="100%" height="600px">

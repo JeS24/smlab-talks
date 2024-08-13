@@ -19,4 +19,4 @@ We present a new method that views object detection as a direct set prediction p
 Additional resources:
 https://ai.meta.com/research/publications/end-to-end-object-detection-with-transformers/
 
-<embed src="/assets/slides/2023-08-28--Rucha--DETR.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2023-08-28--Rucha--DETR.pdf" type="application/pdf" width="100%" height="600px">

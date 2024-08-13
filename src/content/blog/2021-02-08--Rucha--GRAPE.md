@@ -19,4 +19,4 @@ Machine learning with missing data has been approached in two different ways, in
 Additional resources:
 https://proceedings.neurips.cc/paper/2020/file/dc36f18a9a0a776671d4879cae69b551-Paper.pdf
 
-<embed src="/assets/slides/2021-02-08--Rucha--GRAPE.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2021-02-08--Rucha--GRAPE.pdf" type="application/pdf" width="100%" height="600px">

@@ -21,4 +21,4 @@ For the talk, I will start with a brief introduction to transformer language mod
 Additional resources:
 https://nlp.seas.harvard.edu/2018/04/03/attention.html.
 
-<embed src="/assets/slides/2024-07-15--Sagar--ScalMatMul-MMF-LLMs.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-07-15--Sagar--ScalMatMul-MMF-LLMs.pdf" type="application/pdf" width="100%" height="600px">

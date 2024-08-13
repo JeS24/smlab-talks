@@ -18,4 +18,4 @@ Recent advances in neural theorem-proving resort to large language models and tr
 Additional resources:
 https://aclanthology.org/2023.acl-long.706.pdf
 
-<embed src="/assets/slides/2023-08-14--Rahul--DT-solver.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2023-08-14--Rahul--DT-solver.pdf" type="application/pdf" width="100%" height="600px">

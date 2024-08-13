@@ -19,4 +19,4 @@ The world of accessible prosthetic limbs mostly consists of dummy legs and hands
 Additional resources:
 https://arxiv.org/abs/1811.04716
 
-<embed src="/assets/slides/2021-09-07--Jyothish--robotic-prosthetics.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2021-09-07--Jyothish--robotic-prosthetics.pdf" type="application/pdf" width="100%" height="600px">

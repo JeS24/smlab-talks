@@ -18,4 +18,4 @@ A cross-region prediction model named SeisEML (an acronym for Seismological Ense
 Additional resources:
 https://doi.org/10.1007/s11069-023-06230-4
 
-<embed src="/assets/slides/2024-06-24--Dibyanshu--earthquake-ground-motion-prediction.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-06-24--Dibyanshu--earthquake-ground-motion-prediction.pdf" type="application/pdf" width="100%" height="600px">

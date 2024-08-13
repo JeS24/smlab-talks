@@ -19,4 +19,4 @@ models for synthesis of images and videos. In this talk, I will be going
 into details on how stable diffusion works both in an intuitive level
 and mathematical foundation of the theory behind stable diffusion.
 
-<embed src="/assets/slides/2024-07-29--Annada--Stable-Diffusion.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-07-29--Annada--Stable-Diffusion.pdf" type="application/pdf" width="100%" height="600px">
