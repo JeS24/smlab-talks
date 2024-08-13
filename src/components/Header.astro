@@ -4,7 +4,7 @@ import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "talks" | "tags" | "about" | "search";
 }
 
 const { activeNav } = Astro.props;
@@ -18,7 +18,7 @@ const { activeNav } = Astro.props;
         {
           LOGO_IMAGE.enable ? (
             <img
-              src={`/assets/${LOGO_IMAGE.svg ? "logo.svg" : "logo.png"}`}
+              src={`/assets/${LOGO_IMAGE.svg ? "smlab-logo.svg" : "smlab-logo.png"}`}
               alt={SITE.title}
               width={LOGO_IMAGE.width}
               height={LOGO_IMAGE.height}
@@ -56,8 +56,8 @@ const { activeNav } = Astro.props;
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
-            <a href="/posts/" class={activeNav === "posts" ? "active" : ""}>
-              Posts
+            <a href="/talks/" class={activeNav === "talks" ? "active" : ""}>
+              Talks
             </a>
           </li>
           <li>
@@ -65,11 +65,11 @@ const { activeNav } = Astro.props;
               Tags
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="/about/" class={activeNav === "about" ? "active" : ""}>
               About
             </a>
-          </li>
+          </li> -->
           <li>
             <LinkButton
               href="/search/"
