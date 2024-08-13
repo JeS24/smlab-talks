@@ -43,6 +43,7 @@ var talkRem2Trig = 1; // 1 hour
 
 var talkGH = "https://github.com/JeS24/smlab-talks/"
 var talkSite = "https://www.niser.ac.in/~smishra/lab/labtalk/"
+var presEmail = "" // CHANGEME: NOTE: Email ID of the presentation account
 
 // Calendar ID for the lab calendar
 var sLabCalID = "" // CHANGEME: NOTE: Calendar ID for the lab calendar
@@ -63,8 +64,9 @@ PhD Scholar<br>
 An OCC of Homi Bhabha National Institute<br>
 Bhubaneswar, India<br><br>
 
-<b>P.S.1</b>: GitHub Repo for lab talks - <a target="_blank" href="${talkGH}">${talkGH}</a><br>
-<b>P.S.2</b>: Website for lab talks - <a target="_blank" href="${talkSite}">${talkSite}</a><br>
+<b>P.S.1</b>: You can mail the slides (any format) to <a href="mailto:${presEmail}">${presEmail}</a> prior to the talk.<br>
+<b>P.S.2</b>: GitHub Repo for lab talks - <a target="_blank" href="${talkGH}">${talkGH}</a><br>
+<b>P.S.3</b>: Website for lab talks - <a target="_blank" href="${talkSite}">${talkSite}</a><br>
 
 <b>N.B.</b>: This is an <b>automated</b> email.
 `
