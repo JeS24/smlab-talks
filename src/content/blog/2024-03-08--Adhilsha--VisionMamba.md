@@ -18,4 +18,4 @@ The evolution of Selective SSMs coupled with the emergence of the Mamba model ha
 Additional resources:
 https://arxiv.org/abs/2401.09417
 
-<embed src="/assets/slides/2024-03-08--Adhilsha--VisionMamba.pdf" type="application/pdf" width="100%" height="600px">
+<embed src="/labtalks/assets/slides/2024-03-08--Adhilsha--VisionMamba.pdf" type="application/pdf" width="100%" height="600px">
