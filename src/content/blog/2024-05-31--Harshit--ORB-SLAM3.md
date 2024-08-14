@@ -49,7 +49,7 @@ For the benefit of the community we make public the source
 code.
 
 Additional resources:
-https://arxiv.org/pdf/2007.11898
-https://github.com/UZ-SLAMLab/ORB_SLAM3
+- https://arxiv.org/pdf/2007.11898
+- https://github.com/UZ-SLAMLab/ORB_SLAM3
 
 <embed src="/labtalks/assets/slides/2024-05-31--Harshit--ORB-SLAM3.pdf" type="application/pdf" width="100%" height="600px">

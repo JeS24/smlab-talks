@@ -19,7 +19,6 @@ description: This paper introduces LightGlue, a deep neural network that learns 
 We introduce LightGlue, a deep neural network that learns to match local features across images. We revisit multiple design decisions of SuperGlue, the state of the art in sparse matching, and derive simple but effective improvements. Cumulatively, they make LightGlue more efficient– in terms of both memory and computation, more accurate, and much easier to train. One key property is that LightGlue is adaptive to the difficulty of the problem: the inference is much faster on image pairs that are intuitively easy to match, for example, because of a larger visual overlap or limited appearance change. This opens up exciting prospects for deploying deep matchers in latency-sensitive applications like 3D reconstruction.
 
 Additional resources:
-
 - Paper: https://arxiv.org/abs/2306.13643
 - Code: https://github.com/cvg/LightGlue
 

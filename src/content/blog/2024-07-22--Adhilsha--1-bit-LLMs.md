@@ -1,5 +1,5 @@
 ---
-author: Adhilsha A.
+author: Adhilsha Ansad
 pubDatetime: 2024-07-22T14:00:00.000+05:30
 modDatetime:
 title: The Era of 1-bit LLMs - A Brief Overview

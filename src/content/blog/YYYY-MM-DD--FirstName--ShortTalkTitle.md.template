@@ -4,7 +4,7 @@ pubDatetime: 2024-06-10T14:00:00.000+05:30 TODO: Update Date & Time as needed
 modDatetime: 
 title: TODO: Add title here
 featured: false
-draft: true
+draft: false
 slug: TODO: Add the shortest possible slug (URL for the post) here. Separate words with `-`. No spaces.
 tags:
   - "2024" TODO: Update the year as needed
