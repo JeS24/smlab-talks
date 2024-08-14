@@ -7,7 +7,7 @@ export const SITE: Site = {
   profile: "https://github.com/JeS24/",
   desc: "SMLab - Weekly talks & presentations by lab members and interns on various ML / CS topics.",
   title: "SMLab Weekly Talks",
-  ogImage: "smlab-og.png",
+  ogImage: "/labtalks/smlab-og.png", // Open Graph Image
   lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage: 6,

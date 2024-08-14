@@ -33,4 +33,4 @@ Content is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by
 Template licensed under the MIT License, Copyright © 2024 [Sat Naing](https://satnaing.dev)
 
 ---
-Thanks [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors) for the template.
+Thanks [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors) for the template. This repo adds some extra features, such as support for a `base` URL, fuzzy search extended to authors, and more.

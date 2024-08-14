@@ -30,7 +30,7 @@ const {
 } = Astro.props;
 
 const socialImageURL = new URL(
-  SITE.base + "/" + ogImage ?? SITE.base + "/" + SITE.ogImage ?? SITE.base + "/" + "og.png",
+  ogImage ?? SITE.ogImage ?? "og.png",
   Astro.url.origin
 ).href;
 

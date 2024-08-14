@@ -6,6 +6,7 @@ import { SITE } from "@config";
 
 export type SearchItem = {
   title: string;
+  author: string;
   description: string;
   data: CollectionEntry<"blog">["data"];
   slug: string;
@@ -34,7 +35,7 @@ export default function SearchBar({ searchList }: Props) {
   const fuse = useMemo(
     () =>
       new Fuse(searchList, {
-        keys: ["title", "description"],
+        keys: ["title", "author", "description"],
         includeMatches: true,
         minMatchCharLength: 2,
         threshold: 0.5,
