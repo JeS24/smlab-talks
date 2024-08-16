@@ -5,7 +5,7 @@ This repository stores the files of the talks & presentations by our lab members
 The same is hosted at https://smlab.niser.ac.in/labtalks/.
 
 > [!TIP]
-> See [`./smlab-talk-templates`](./smlab-talk-templates) for the Marp templates for the talks.
+> See [`./smlab-talk-templates`](./smlab-talk-templates) for the Marp templates for the talks. Contact the lab members for acquiring access to the fonts.
 
 > [!NOTE]
 > 1. For people looking to edit the site, please refer to [`AstroPaper.README.md`](./AstroPaper.README.md) for the setup and configuration of this website.
