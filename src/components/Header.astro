@@ -56,6 +56,11 @@ const { activeNav } = Astro.props;
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
+            <a href="/">
+              Lab
+            </a>
+          </li>
+          <li>
             <a href=`${SITE.base}/talks/` class={activeNav === "talks" ? "active" : ""}>
               Talks
             </a>

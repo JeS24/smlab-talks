@@ -4,9 +4,13 @@ This repository stores the files of the talks & presentations by our lab members
 
 The same is hosted at https://smlab.niser.ac.in/labtalks/.
 
+> [!TIP]
+> See [`./smlab-talk-templates`](./smlab-talk-templates) for the Marp templates for the talks.
+
 > [!NOTE]
 > 1. For people looking to edit the site, please refer to [`AstroPaper.README.md`](./AstroPaper.README.md) for the setup and configuration of this website.
 > 2. For the Google AppScript that controls the automated mails, please refer to [`auto-mails-appscript.gs`](./AppScript/auto-mails-appscript.gs).
+
 
 ### 📚 How to add new talks?
 
