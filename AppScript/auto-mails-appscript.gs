@@ -42,7 +42,7 @@ var talkRem1Trig = talkTime; // in hours | Reminder sent at 00:00 on the day of 
 var talkRem2Trig = 1; // 1 hour
 
 var talkGH = "https://github.com/JeS24/smlab-talks/"
-var talkSite = "https://www.niser.ac.in/~smishra/lab/labtalk/"
+var talkSite = "https://smlab.niser.ac.in/labtalks/"
 var presEmail = "" // CHANGEME: NOTE: Email ID of the presentation account
 
 // Calendar ID for the lab calendar
