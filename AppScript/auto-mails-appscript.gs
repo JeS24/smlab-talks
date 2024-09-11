@@ -72,6 +72,8 @@ Bhubaneswar, India<br><br>
 `
 var allMails = [];
 for (var i = 1; i < data.length; i++) { // Skip row 1
+  let canMail = data[i][1] == "Yes";
+  if (canMail) // Skip people we are mailing separately / do not want on the mailing list
     allMails.push(data[i][2]);
 }
 var allMailsStr = allMails.join(","); // Convert to a string with comma-separated values
