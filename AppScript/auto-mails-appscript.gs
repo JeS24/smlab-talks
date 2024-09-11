@@ -59,7 +59,7 @@ Best regards,<br>
 <a href="https://github.com/JeS24" target="_blank">Jyotirmaya Shivottam</a><br>
 PhD Scholar<br>
 <a href="https://www.niser.ac.in/~smishra/" target="_blank">Subhankar Mishra Lab</a><br>
-<a href="https://oldsite.niser.ac.in/scps/" target="_blank">School of Computer Sciences</a><br>
+<a href="https://www.niser.ac.in/scos/" target="_blank">School of Computer Sciences</a><br>
 <a href="https://www.niser.ac.in/" target="_blank"> National Institute of Science Education and Research</a><br>
 An OCC of Homi Bhabha National Institute<br>
 Bhubaneswar, India<br><br>
