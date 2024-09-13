@@ -19,4 +19,6 @@ ESNs are a type of Recurrent Neural Networks that are designed to capture long-t
 Additional resources:
 https://arxiv.org/abs/2205.13504
 
-<!-- FIXME: slides -->
+NOTE: The talk on September 22 follows this talk. The slides below are the same for both talks.
+
+<embed src="/labtalks/assets/slides/2023-09-12--Jyotirmaya--esn-v-transformers.pdf" type="application/pdf" width="100%" height="600px">

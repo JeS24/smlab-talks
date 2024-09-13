@@ -3,7 +3,7 @@ import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Tag from "@components/Tag.astro";
-import Datetime from "@components/Datetime";
+import Subtitle from "@components/Subtitle";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
@@ -63,12 +63,17 @@ const layoutProps = {
   </div>
   <main id="main-content">
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
-    <Datetime
+    
+    <!-- Author and Datetimestamp in posts -->
+    <Subtitle
+      subtitleTransitionName={author + pubDatetime}
+      author={author}
       pubDatetime={pubDatetime}
-      modDatetime={modDatetime}
+      modDatetime={modDatetime} 
       size="lg"
       className="my-2"
     />
+
     <article id="article" class="prose mx-auto mt-8 max-w-3xl">
       <Content />
     </article>

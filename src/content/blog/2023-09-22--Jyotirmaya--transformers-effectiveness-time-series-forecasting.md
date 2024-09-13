@@ -18,4 +18,6 @@ In this talk, we will discuss the aforementioned paper from AAAI '23, which comp
 Additional resources:
 https://arxiv.org/abs/2205.13504
 
-<!-- FIXME: slides -->
+NOTE: This talk follows the talk on September 12. The slides below are the same for both talks.
+
+<embed src="/labtalks/assets/slides/2023-09-12--Jyotirmaya--esn-v-transformers.pdf" type="application/pdf" width="100%" height="600px">

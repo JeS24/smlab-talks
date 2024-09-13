@@ -29,6 +29,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         )}
       </a>
       <Subtitle
+        subtitleTransitionName={author + pubDatetime}
         author={author}
         pubDatetime={pubDatetime}
         modDatetime={modDatetime}
