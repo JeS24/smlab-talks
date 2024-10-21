@@ -23,5 +23,6 @@ Despite significant advancements, current task-oriented systems often produce re
 
 Additional resources:
 * https://ufal.mff.cuni.cz/courses/npfl099/2023#lectures_
+* https://arxiv.org/abs/2304.06556
 
 <embed src="/labtalks/assets/slides/2024-10-14--Nalin--E2ETaskOrientedDialogueSystems.pdf" type="application/pdf" width="100%" height="600px">
