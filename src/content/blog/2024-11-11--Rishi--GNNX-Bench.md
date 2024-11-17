@@ -2,7 +2,7 @@
 author: Rishi Raj Sahoo
 pubDatetime: 2024-11-11T14:00:00.000+05:30 
 modDatetime: 
-title: GNNX-BENCH: Perturbation-based GNN Explainers
+title: GNNX-BENCH - Perturbation-based GNN Explainers
 featured: false
 draft: false
 slug: GNNX-Bench
